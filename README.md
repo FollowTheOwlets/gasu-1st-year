@@ -8,3 +8,6 @@ __Изучить:__
 __Пройти:__
 * [flex-игрушка](https://flexboxfroggy.com/#ru)
 * [grid-игрушка](https://cssgridgarden.com/#ru)
+
+__Ознакомиться для себя__
+* [БЭМ](https://yandex.ru/dev/bem/?ysclid=ljeel25zqr16096151)
